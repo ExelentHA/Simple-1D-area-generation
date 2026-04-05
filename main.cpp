@@ -13,7 +13,6 @@
 
 #include <iostream>
 #include <vector>
-#include <cstdio>
 
 #include <chrono> // benchmark functions
 
