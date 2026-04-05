@@ -3,10 +3,10 @@
 April 5, 2026
 
 #	Synopsis:
-		I think about the algorithm of some popular games like minecraft, skyrim, CatacalysmDDA, etc.
-		i want to make somthing about it like a simple 1d infinite generation array.
+I think about the algorithm of some popular games like minecraft, skyrim, CatacalysmDDA, etc.
+i want to make somthing about it like a simple 1d infinite generation array.
 
 #	the code can:
-		* genarate new area in the array
-		* move location, left and right.
-		* mark the starting pos.
+* genarate new area in the array
+* move location, left and right.
+* mark the starting pos.
